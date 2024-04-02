@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "65647afd2c1610440e64e5b2"
+  },
+  "nameUser": "חגית",
+  "password": "8688",
+  "phon": "0586543876",
+  "manager?": true,
+  "recipysLove": [
+    "עוגיות שוקולד-צ'יפס",
+    "עוגת שוקולד"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65647c172c1610440e64e5b3"
+  },
+  "nameUser": "שירה",
+  "password": "7001",
+  "phon": "0545678234",
+  "manager?": false,
+  "recipysLove": [
+    "עוגת שוקולד",
+    "עוגת מייפל"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65647c662c1610440e64e5b4"
+  },
+  "nameUser": "מיכל",
+  "password": "1234",
+  "phon": "02997169",
+  "manager?": false,
+  "recipysLove": [
+    "עוגיות שוקולד-צ'יפס",
+    "עוגת מיץ "
+  ]
+},
+{
+  "_id": {
+    "$oid": "65647ca82c1610440e64e5b5"
+  },
+  "nameUser": "תמר",
+  "password": "4321",
+  "phon": "029997169",
+  "manager?": false,
+  "recipysLove": [
+    "עוגיות שוקולד-צ'יפס",
+    "עוגת שוקולד"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65647ce52c1610440e64e5b6"
+  },
+  "nameUser": "גיטל",
+  "password": "7654",
+  "phon": "0547654355",
+  "manager?": true,
+  "recipysLove": [
+    "עוגת שוקולד",
+    "עוגת מיץ"
+  ]
+}]
